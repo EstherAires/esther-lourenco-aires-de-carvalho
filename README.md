@@ -7,7 +7,7 @@ JavaScript
 
 ⎙ **GitHub:**
 ```
-[https://github.com/danhpaiva](https://github.com/EstherAires)
+https://github.com/EstherAires
 ```
 
 ⟟  **LinkedIn:**
