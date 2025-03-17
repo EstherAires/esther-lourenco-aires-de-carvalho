@@ -1,6 +1,6 @@
 ## ⊹₊ Esther Aires ₊⊹
 
-모 **Favorite Language:**
+모 **Stack:**
 ```
 JavaScript
 ```
