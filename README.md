@@ -1,13 +1,13 @@
 ## ⊹₊ Esther Aires ₊⊹
 
-모 **Favorite Language:**
+모 **Stack:**
 ```
 JavaScript
 ```
 
 ⎙ **GitHub:**
 ```
-[https://github.com/danhpaiva](https://github.com/EstherAires)
+https://github.com/EstherAires
 ```
 
 ⟟  **LinkedIn:**
